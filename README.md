@@ -37,6 +37,7 @@ Before using this extension, create a GitHub repository where all your solved pr
 
 ---
 
+
 ### 2. Generate Fine-Grained GitHub Token
 
 1. Go to [GitHub Tokens Settings](https://github.com/settings/tokens?type=beta).
@@ -71,7 +72,16 @@ Before using this extension, create a GitHub repository where all your solved pr
 - Click the button after solving a problem — it will upload your code to your repo.
 
 ---
+### POPUP UI
 
+
+![Alt Text](/Popup.png)
+
+
+
+
+
+---
 ## 📂 Folder Structure on GitHub
 
 Your solutions will be pushed in this format:
